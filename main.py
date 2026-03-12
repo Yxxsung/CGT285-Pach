@@ -36,3 +36,6 @@ while not done:
     # this draws the ramp
     pygame.draw.line(screen,(255, 255, 255),line1.a,line1.b,2)
     pygame.display.update()
+
+    #Now my objective is to add two more ramps. From here down is my own code
+
